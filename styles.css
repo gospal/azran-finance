@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: #66BFBF;
+  color: gold;
   font-family: 'Montserrat', sans-serif;
   font-size: 4rem;
   font-weight: normal;
@@ -27,7 +27,7 @@ h3 {
 }
 
 p {
-  color: gold
+  color: gold;
   line-height: 2;
 }
 
@@ -144,7 +144,7 @@ a:hover {
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
-  color: #ffffff;
+  color: gold;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
