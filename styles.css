@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: gold;
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
   font-size: 4rem;
   font-weight: normal;
@@ -27,8 +27,8 @@ h3 {
 }
 
 p {
-  color: gold;
-  line-height: 2;
+  color: darkgoldenrod;
+  line-height: 2.8;
 }
 
 hr {
@@ -106,21 +106,22 @@ a:hover {
 }
 
 .bitcoin {
-  width: 30%;
+  width: 46%;
   float: left;
   margin-right: 30px;
 }
 
 .chilli {
-  width: 25%;
+  width: 35%;
   float: right;
-  margin-left: 30px;
+  margin-left: 70px;
 }
 
 .intro {
   color: gold;
   width: 60%;
   margin: auto;
+  font-size: larger;
 }
 
 .skillsinfo {
