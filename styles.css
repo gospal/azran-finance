@@ -33,7 +33,7 @@ h3 {
 }
 
 p {
-  color: rgb(255, 189, 27);
+  color: rgba(0, 0, 0, 0.50);
   line-height: 2.8;
   font-family: Arial Black;
 }
@@ -73,7 +73,7 @@ a:hover {
 }
 
 .top-container {
-  background: #11999E;
+  background: rgba(0, 0, 0, 0.50);
   position: relative;
   padding-top: 100px;
 }
