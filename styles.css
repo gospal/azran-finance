@@ -54,6 +54,7 @@ a:hover {
 
 .mountain {
   width: 800px;
+  margin-bottom: -4px;
 }
 
 .fd {
@@ -117,7 +118,7 @@ a:hover {
 }
 
 .intro {
-  color: gold;
+  color: darkgoldenrod;
   width: 60%;
   margin: auto;
   font-size: larger;
