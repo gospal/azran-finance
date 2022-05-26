@@ -143,7 +143,7 @@ a:hover {
 
 .btn {
   background: #11CDD4;
-  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -webkit-linear-gradient(#11cdd4, rgb(0, 0, 0) 57.98%, #11999e)
   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
@@ -152,7 +152,7 @@ a:hover {
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
-  color: gold;
+  color: white;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
