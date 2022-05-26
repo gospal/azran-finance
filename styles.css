@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  color: #11999E;
+  color: ##000000;
   font-family: 'Montserrat', sans-serif;
   font-size: 4rem;
   font-weight: normal;
@@ -41,8 +41,9 @@ h3 {
 }
 
 p {
-  color: darkgoldenrod;
+  color: rgb(255, 189, 27);
   line-height: 2.8;
+  font-family: Arial Black;
 }
 
 hr {
@@ -132,10 +133,12 @@ a:hover {
 }
 
 .intro {
-  color: darkgoldenrod;
+  color: rgb(255, 189, 27);
   width: 60%;
   margin: auto;
   font-size: larger;
+  font-style: oblique;
+  font-family: Ayuthaya;
 }
 
 .skillsinfo {
